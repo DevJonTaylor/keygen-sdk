@@ -7,7 +7,7 @@ use Exception;
 trait ListPoliciesTrait
 {
     /**
-     * Sends a request to Keygen.sh for a list of policies based on the page number and page size provided.
+     * Sends a request to KeygenTest.sh for a list of policies based on the page number and page size provided.
      *
      * @param int $pageNumber
      * @param int $pageLimit

@@ -9,7 +9,7 @@ use Keygen\Util\Settings;
 trait GetPolicy
 {
     /**
-     * Retrieves the policy object from Keygen.sh API and returns it.
+     * Retrieves the policy object from KeygenTest.sh API and returns it.
      *
      * @param $id
      * @return Policy

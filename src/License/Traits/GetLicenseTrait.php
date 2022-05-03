@@ -8,7 +8,7 @@ use Keygen\Util\Debug;
 trait GetLicenseTrait
 {
     /**
-     * Returns a License object that was retrieved from the Keygen.sh API.
+     * Returns a License object that was retrieved from the KeygenTest.sh API.
      *
      * @param string $id
      * @return License

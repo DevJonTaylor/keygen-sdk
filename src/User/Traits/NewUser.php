@@ -15,7 +15,7 @@ trait NewUser
     );
 
     /**
-     * $this will create a new user within Keygen.sh's server.
+     * $this will create a new user within KeygenTest.sh's server.
      *
      *
      * @param $attributes

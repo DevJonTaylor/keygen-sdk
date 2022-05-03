@@ -1,2 +1,4 @@
 .gitattributes
 .idea
+composer.lock
+.keygenrc

@@ -8,7 +8,7 @@ trait GetUser
 {
 
     /**
-     * This will connect to Keygen and add the attributes to a User Object then return the User Object.
+     * This will connect to KeygenTest and add the attributes to a User Object then return the User Object.
      * If there is an issue I.E. "Authentication", "User Not Found" an Exception will be thrown.
      *
      * @param $id

@@ -12,7 +12,7 @@ use stdClass;
  * {URI}        -> /other/directives/go/here
  * {PARAMETERS} -> ?examples=parameters&go=here
  *
- * @package Keygen\cURL
+ * @package KeygenTest\cURL
  * @since 1.0
  */
 trait BuildUrlTrait

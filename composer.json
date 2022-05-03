@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Keygen\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

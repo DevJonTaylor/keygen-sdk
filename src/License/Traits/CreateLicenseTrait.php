@@ -9,7 +9,7 @@ trait CreateLicenseTrait
 {
 
     /**
-     * Creates a new License inside of Keygen.sh API and then returns a License Object.
+     * Creates a new License inside of KeygenTest.sh API and then returns a License Object.
      *
      * @param string|User $userId
      * @param string|Policy $policyId

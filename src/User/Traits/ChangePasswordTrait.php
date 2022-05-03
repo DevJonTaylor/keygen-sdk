@@ -57,7 +57,7 @@ trait ChangePasswordTrait
     }
 
     /**
-     * This is performed in two calls to the Keygen API.
+     * This is performed in two calls to the KeygenTest API.
      * First call is to create the Bearer Token for the user.
      * Second call is to update hte password using hte Bearer Token.
      *

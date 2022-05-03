@@ -72,7 +72,7 @@ class User extends UserModel
     }
 
     /**
-     * This will take all changes made and save them to the Keygen server.
+     * This will take all changes made and save them to the KeygenTest server.
      * If there is an issue with the response other than successful it will throw an Exception with the reason.
      *
      * @return $this

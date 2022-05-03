@@ -65,7 +65,7 @@ class License extends LicenseModel
     }
 
     /**
-     * Takes the current changes and updates it to the Keygen.sh API.
+     * Takes the current changes and updates it to the KeygenTest.sh API.
      *
      * @return $this for chaining purposes.
      * @throws Exception
